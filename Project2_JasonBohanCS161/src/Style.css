@@ -1,0 +1,26 @@
+.label {
+   -fx-font-family: mono;
+   -fx-font-size: 20pt;
+   -fx-font-style: normal;
+   -fx-border-style: none;
+   -fx-Background-color: forestgreen;
+   -fx-text-fill: white;
+ 
+}
+.text-area{
+   -fx-font-family: serif;
+   -fx-font-size: 12pt;
+   -fx-font-weight: bold;
+
+   -fx-border-style: none;
+}
+.background{
+	-fx-font-family: mono;
+   -fx-font-size: 14pt;
+   -fx-font-style: normal;
+   -fx-border-style: none;
+   -fx-Background-color: forestgreen;
+   -fx-text-fill: white;
+ 
+}
+
